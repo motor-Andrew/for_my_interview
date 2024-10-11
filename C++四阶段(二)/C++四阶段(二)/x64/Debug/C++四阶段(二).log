@@ -1,0 +1,5 @@
+﻿  stl案例2-员工分组.cpp
+D:\practice\C++四阶段(二)\C++四阶段(二)\stl案例2-员工分组.cpp(56,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\practice\C++四阶段(二)\C++四阶段(二)\stl案例2-员工分组.cpp(65,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\practice\C++四阶段(二)\C++四阶段(二)\stl案例2-员工分组.cpp(74,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  C++四阶段(二).vcxproj -> D:\practice\C++四阶段(二)\x64\Debug\C++四阶段(二).exe
